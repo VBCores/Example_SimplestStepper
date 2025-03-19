@@ -2,9 +2,6 @@
 	"folders": [
 		{
 			"path": ".."
-		},
-		{
-			"path": "../../STM32_TMC5160_StepperMotor_Driver_Standalone"
 		}
 	],
 	"settings": {
